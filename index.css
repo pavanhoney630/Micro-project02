@@ -1,0 +1,277 @@
+body {
+    width: 1300px;
+    height: 1262px;
+    top: -103px;
+    left: -650px;
+    gap: 0px;
+   opacity: 0px;
+   background: #FFFFFF;
+   padding: 0px,50px,0px,75px;
+   margin-left: -60px;
+   border: auto,50px,auto,auto;
+   margin-top: -30px;
+  
+
+}
+
+ .first{
+    background: #6F6AF7;
+    width: 1400px;
+   height: 107px;
+   gap: 0px;
+   opacity: 0px;
+   display: flex;
+   padding-top: 20px;
+   color: #FFFFFF;
+   
+
+}
+#Rect{
+    width: 180px;
+    border-radius: 8px;
+    height: 30px;
+    
+}
+
+div{
+    margin-left: 90px;
+}
+#font1{
+    font-family: cursive;
+    font-size: 58.43px;
+    font-weight: 400;
+    line-height: 56.81px;
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 25px;
+
+}
+
+#font2{
+    font-size: 25px;
+    margin-top: 45px;
+    margin-right: 0px;
+}
+#vector{
+    margin-top: 57px;
+}
+#Hline{
+    height: 35px;
+}
+#Group1{
+    height: 435px;
+    width: 385px;
+    
+}
+.container-1{
+    display: flex;
+    margin-top: 35px;
+    margin-left: 100px;
+    margin-bottom: -85px;
+    
+
+}
+#input1{
+    margin-top: 20px;
+    height: 385px;
+    width: 780px;
+    border-radius: 8px;
+    background: #E5D8FF;
+    font-size: 18px;
+    margin-left: -70px;
+    color: gray;  
+}
+#Frame2{
+    width: 80px;
+    margin-right: 0px;
+    margin-bottom: 220px;
+    height: 315px;
+    padding: 0px;
+    position: sticky; 
+    margin-left: 1400px;
+    position: -webkit-sticky;
+    top: 0;
+    margin-top: -390px;
+}
+.container-2{
+    display: flex;
+    padding: 45px;
+    margin-right:80px;
+    margin-left: 80px;
+    margin-bottom: 35px;
+    margin-top: -85px;
+
+}
+#block1{
+    background: #929DFF;
+    width: 219px;
+    height: 105px;
+    border-radius: 12px 0px 0px 0px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+
+#block2{
+    background: #734CF2;
+    width: 219px;
+    height: 105px;
+    border-radius: 11px 0px 0px 0px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+#block3{
+    background: #D288FF;
+    width: 219px;
+    height: 105px;
+    border-radius: 11px 0px 0px 0px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+#block4{
+    background: #000000;
+    width: 220px;
+    height: 105px;
+    border-radius: 11px 0px 0px 0px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+#float{
+    height: 105px;
+    margin-top: -75px;
+    margin-right: -57px;
+    margin-left: 790px;
+    position:sticky;
+    margin-bottom: -10px;
+    top: 90vh;
+    float: right;
+  
+}
+.container-3{
+    width: 1195px;
+    height: 390px;
+    top: 1267px;
+    left: 101px;
+   gap: 0px;
+   border-radius: 21px 15px 15px 0px;
+   opacity: 0px;
+   background-color: blue;
+   margin-left: 210px;
+
+}
+#input2{
+    margin-right: 55px;
+    margin-left: -125px;
+    margin-top: 30px;
+    width: 177px;
+    height: 65px;
+    border-radius: 7px;
+    background: #BCE0F6;
+    border: white 1px solid;
+    font-size: 13px;
+    text-align: center;
+    
+
+}
+#input3{
+    margin-right: 55px;
+    margin-left: -125px;
+    margin-top: 40px;
+    width: 177px;
+    height: 65px;
+    border-radius: 7px; 
+    background: #483EFF;
+    border: white 1px solid;
+    text-align: center;
+
+}
+#input4{
+    margin-right: 55px;
+    margin-left: -125px;
+    margin-top: 40px;
+    width: 177px;
+    height: 65px;
+    border-radius: 7px; 
+    background: #483EFF;
+    border: white 1px solid;
+    text-align: center;
+ 
+}
+ #input2::placeholder{
+    color: #000000;
+    font-weight: bold;
+}
+#input3::placeholder{
+    color: white;
+    font-weight: 700;
+}
+#input4::placeholder{
+    color: white;
+    font-weight: 700;
+}
+.flex{
+    display: inline-flex;
+}
+#text1{
+    margin-top: -5px;
+    height: 355px;
+    width: 800px;
+    border-radius: 8px;
+    background: #FFFFFF;
+    font-size: 18px;
+    margin-left: -7px;
+}
+#text1{
+    font-size:larger;
+    font-weight: 700;
+}
+textarea{
+    resize: none;
+}
+#Next{
+    margin-top: 270px;
+    width: 93px;
+    margin-left: -370px;
+    height: 50px;
+    border-radius: 7px;
+    background: black;
+    color: #FFFFFF;
+    padding-right: -25px;
+    padding-left: 40px;
+    margin-bottom: -490px;
+    
+}
+#Next::placeholder{
+    color: #FFFFFF;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+    width: 35px;
+}
+#Arrow{
+    
+    height: 13px;
+    margin-top: 290px;
+    margin-left: -289px;
+    padding-left: -70px;
+    padding-right: 50px;
+    
+}
+
+#table{
+    color: #04285A;
+    margin-left: -800px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+#th{
+    
+    margin-bottom: 50px;
+    text-align: left;
+    justify-content: left;
+}
